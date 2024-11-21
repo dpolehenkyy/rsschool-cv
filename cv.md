@@ -4,10 +4,10 @@ Junior Frontend Developer
 
 ### **Contacts:**
 
-**E-mail:** /
-**Telegram:** /
-**Discord:** /
-**GitHub:** /
+**E-mail:** denyspolehenky@gmail.com
+**Telegram:** @d.polehennky  
+**Discord:** Denys Polehenky (@denyydev)
+**GitHub:** https://github.com/denyydev
 
 ## **About myself**
 
